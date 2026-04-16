@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/aakash/Desktop/perpify-testnet/contracts/PerpifyReopen.sol": {
+      "lastModificationDate": 1776369629663,
+      "contentHash": "1f54a1e69cf459af9d2a171bbb5dc7a2",
+      "sourceName": "contracts/PerpifyReopen.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "PerpifyReopen"
+      ]
+    }
+  }
+}
